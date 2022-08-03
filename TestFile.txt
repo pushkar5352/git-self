@@ -1,8 +1,6 @@
 i made this file.
 First change.
 Second change.
-change to fix bug1. update on remote.
-change on remote repository.
-change to fix bug1. local change.
-
-
+change: to fix bug1. update on remote.
+change: on remote repository.
+change: to fix bug1. local change.
